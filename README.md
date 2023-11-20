@@ -7,7 +7,6 @@
 </p>
  <!-- 
 //, occasional **`Community Manager`**,
-
 -->
 
 ---
