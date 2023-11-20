@@ -85,7 +85,7 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 
 </br>
 
-**Check my repositories and don't forget to give a star.** 👇
+**Check my repositories** 👇
 
 [website]: https://www.valentinagaleano.com/
 [mail]:valentinagalena1@gmail.com
