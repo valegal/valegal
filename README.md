@@ -1,8 +1,8 @@
 <!-- 
-Hope you ❤️ my repo. Don't forget to follow. 
+
 -->
 
-### Hi, Valeg here 👋
+### Hi, Valeg here 👋 Hope you ❤️ my repo. Don't forget to follow. 
 
 ---
 
@@ -29,11 +29,8 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
  
  ☕ 👇 Let's have coffee together
  
- <a href="https://www.buymeacoffee.com/Souravdey777"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
+ <a href="https://www.buymeacoffee.com/valegale"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
  
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow&color=64acff" style=" float:left, margin-right:10px" />
-
 
 ---
 
@@ -66,13 +63,9 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 
 ---
 
-🤠 Click here for a detailed stats 📈 👉🏻 [**@CodersRank**](https://profile.codersrank.io/user/souravdey777)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=valegal)](https://github.com/valegal)
 
-<a href="https://profile.codersrank.io/user/souravdey777"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=souravdey777&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
-
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Souravdey777)](https://github.com/Souravdey777)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)](https://github.com/Souravdey777)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=valegal&show_icons=true&hide_border=true)](https://github.com/valegal)
 
 ---
 
@@ -91,54 +84,15 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 [![Speaker Deck](http://img.shields.io/badge/-Speaker%20Deck-009287?style=flat&logo=Speaker%20deck&logoColor=white)][speakerdeck]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
-<!-- 
----
-### You can check out my blogs 📢
-
-<p >
-<a href="https://souravdey777.hashnode.dev/">
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=1&large=true&theme=dark" title="Blog" alt="Blog">
-</a>
-  
-<a href="https://souravdey777.hashnode.dev/">
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=2&large=true&theme=dark" title="Blog" alt="Blog">
-</a>
-
-<a href="https://souravdey777.hashnode.dev/">
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlogBySequence?username=Souravdey777&sequence=3&large=true&theme=dark" title="Blog" alt="Blog">
-</a>
-</p>
-
-**Note-** [Add your Hashnode blogs to your Github profile using my Hashnode Blog Cards](https://github.com/Souravdey777/HashnodeBlogCards)
-
-### You can check out my blogs in Medium 📢
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=horizontal)](https://medium.com/@Souravdey777)
-
-**Note-** [Add your Medium or Dev blogs to your Github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs)
-
--->
----
 
 Let's connect 👨‍💻 and forge the future together. 😁✌ 
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-<!-- 
-Want to give some Credit. Simply uncomment the next line
-Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey777) 
--->
-
-[website]: https://www.souravdey.space/
-[mail]:mailto:piyush.kolkata@gmail.com
-[twitter]: https://twitter.com/Souravdey777
-[codersrank]: https://profile.codersrank.io/user/souravdey777
+[website]: https://www.valentinagaleano.com/
+[mail]:valentinagalena1@gmail.com
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/souravdey777/
-[hashnode]: https://souravdey777.hashnode.dev/
-[medium]: https://medium.com/@Souravdey777
-[producthunt]: https://www.producthunt.com/@souravdey777
-[speakerdeck]: https://speakerdeck.com/Souravdey777
-[ADPList]: https://adplist.org/mentors/sourav-dey
-
+[instagram]: https://www.instagram.com/valegalei/
+[linkedin]: https://www.linkedin.com/in/valegal/
+[hashnode]: https://valentinagaleano.hashnode.dev/
+[medium]: https://medium.com/@valentinagc72/
