@@ -20,7 +20,7 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 
 ---
 
-### ✒️ Skills and Achievements ✒️
+### Skills and Achievements ✒️
 
   💻 Proficient in advanced Python.
 
@@ -73,7 +73,7 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
  <a href="https://www.buymeacoffee.com/valegale"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
 
 -->
-
+---
 
 ### 🌍 You can find in me here 🌍
 
