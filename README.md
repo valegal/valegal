@@ -28,15 +28,12 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 
   📓 I completed some courses:
   </br>
-  </br>
 
    - 📖 Massive data mining courses [StanfordOnline](https://learning.edx.org/course/course-v1:StanfordOnline+CSX0002+1T2020/home) 
 
-   </br>
 
    - 📖 Google Cloud Computing Foundations: Cloud Computing Fundamentals [GoogleCloud](https://learning.edx.org/course/course-v1:GoogleCloud+GCCF1x+3T2022/home)
 
-   </br>
 
    - 📖 CS50's Introduction to Cybersecurity [HarvardX](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
  
