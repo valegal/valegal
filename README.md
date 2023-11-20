@@ -77,11 +77,11 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`** and a passionate *
 </br>
 
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
-<a href="mailto:valentinagaleno1@gmail.com"><img width="100" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 [![Medium](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)][hashnode]
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
-
+</br>
+<a href="mailto:valentinagaleno1@gmail.com">Write me an email!</a>
 
 </br>
 
