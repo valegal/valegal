@@ -81,7 +81,7 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`** and a passionate *
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 </br>
-<a href="mailto:valentinagaleno1@gmail.com">Write me an email!</a>
+[Write me an email!](mailto:valentinagaleno1@gmail.com)
 
 </br>
 
