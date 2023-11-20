@@ -1,6 +1,6 @@
-<!-- 
 
--->
+
+
 
 ### Hi! Valeg here, hope you 🤍 my repo. Don't forget to follow. 
 
@@ -20,26 +20,26 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 
 ---
 
-### Skills and Achievements
+### ✒️ Skills and Achievements ✒️
 
   💻 Proficient in advanced Python.
 
   ✒️ Extensive experience, including leading a paid project for UIS system renewal since early career.
 
-  📓 I completed the courses ---> 
-</br>
-</br>
-            📖 Massive data mining courses [StanfordOnline](https://learning.edx.org/course/course-v1:StanfordOnline+CSX0002+1T2020/home) 
-            </br>
-            📖 Google Cloud Computing Foundations: Cloud Computing Fundamentals [GoogleCloud](https://learning.edx.org/course/course-v1:GoogleCloud+GCCF1x+3T2022/home)
-            </br>
-            📖 CS50's Introduction to Cybersecurity [HarvardX](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
+  📓 I completed some courses:
+  </br>
+  </br>
+   - 📖 Massive data mining courses [StanfordOnline](https://learning.edx.org/course/course-v1:StanfordOnline+CSX0002+1T2020/home) 
+   </br>
+   - 📖 Google Cloud Computing Foundations: Cloud Computing Fundamentals [GoogleCloud](https://learning.edx.org/course/course-v1:GoogleCloud+GCCF1x+3T2022/home)
+   </br>
+   - 📖 CS50's Introduction to Cybersecurity [HarvardX](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
  
 ---
 
-
 ### Tech & Tools Preference 💻
 
+</br>
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -65,16 +65,16 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
  
- ---
+ <!-- 
  
  ☕ 👇 Let's have coffee together
  
  <a href="https://www.buymeacoffee.com/valegale"> <img width="160" src="https://img.shields.io/badge/-%E2%98%95%20Buy%20me%20a%20coffee-ffac00?style=flat"> </a>
 
----
+-->
 
 
-### You can find in me in the web 🌍
+### 🌍 You can find in me here 🌍
 
  <a href="https://www.valentinagaleano.com/"> <img width="160" src="http://img.shields.io/badge/-Portfolio%20Website-ffffff?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEYSURBVDiNxdHNK4RRFMfxzzMzhVJeirKwIZKVyG4WY22nrCwoG%2FkHbGYzO%2FkfLKysZSHFgmxtKCJkNTLEyEtZTGPx3KnpaWSS8q3bOffcc37ndC7%2FTYRldKKCdMJ%2Bxwbm8QJ57GMOV5jFaRD5iXyEHZzjCb24D7bYhEAugwOsNpHciCiNa7wlHiYTE%2FSggHEM4CTEsynxMmAME8GfRg6D4f6Kh%2BDf1HdKBTsaio4xhAscYhH96K4Ty2IF64hqAo%2FoQitmsIV2tKCMEs7QFk4ae6jWBEpYwzAy%2BAh%2BIYzfh6nQoBUj2BSUsjjCe5jkUrzUIj7rdvAs%2Fuo7bIu%2F%2BzYTOtaohIQkVew2iC9EWEJHg8dmKP%2By7g%2F5Ahl%2FO9wcY8OAAAAAAElFTkSuQmCC&logoColor=white"></a>
 </br>
@@ -85,9 +85,9 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 [![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
+</br>
 
-
-**Check the Repositories and don't forget to give a star.** 👇
+**Check my repositories and don't forget to give a star.** 👇
 
 [website]: https://www.valentinagaleano.com/
 [mail]:valentinagalena1@gmail.com
