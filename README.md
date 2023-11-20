@@ -16,13 +16,16 @@ I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`**, occasional **`Com
 
   🎓 Soon-to-be Software Engineer from the Universidad Industrial de Santander (UIS).
 
-Skills and Achievements
+## Skills and Achievements
 
   💻 Proficient in advanced Python.
 
   ✒️ Extensive experience, including leading a paid project for UIS system renewal since early career.
 
-  📓 I completed the courses of: 📖 Massive data mining courses [StanfordOnline] 📖 Google Cloud Computing Foundations: Cloud Computing Fundamentals [GoogleCloud] 📖 CS50's Introduction to Cybersecurity [HarvardX]
+  📓 I completed the courses ---> 
+            📖 Massive data mining courses [StanfordOnline] 
+            📖 Google Cloud Computing Foundations: Cloud Computing Fundamentals [GoogleCloud] 
+            📖 CS50's Introduction to Cybersecurity [HarvardX]
  
  ☕ 👇 Let's have coffee together
  
