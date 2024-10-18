@@ -1,14 +1,4 @@
-### Hi! Valeg here, hope you 🤍 my repo. Don't forget to follow. 
-
----
-
-<p align="center">
-  <img src="/Github Banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
- <!-- 
-//, occasional **`Community Manager`**,
--->
-
+### Hi! Valeg here. 
 ---
 
 I'm a 21 years old 👩🏻‍💻 **`Full-Stack Developer`** and a passionate **`Sports Lover`**. I always aim to improve efficiency and User Experience in all my work ✒️ as a Design Thinker 👓 and User-Centric Developer 💯 also exploring ☁️ Cloud technologies.
